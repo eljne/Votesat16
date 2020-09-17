@@ -1,0 +1,653 @@
+Constituency,ONSConstID,Constituency,Region,CON_GE19,LAB_GE19,LIBDEM_GE19,GRN_GE19,SNP_GE19,PC_GE19,BXP_GE19,UKIP_GE19,OTHER_GE19,Registered Voters_GE19,Turnout_GE19,Winner_GE19
+Houghton & Sunderland South,E14000754,Houghton & Sunderland South,North East,13095,16210,2319,1125,,,6165,897,0,"68,828",0.58,Labour
+Newcastle upon Tyne Central,E14000831,Newcastle upon Tyne Central,North East,9290,21568,2709,1365,,,2542,,0,"57,845",0.65,Labour
+Newcastle upon Tyne East,E14000832,Newcastle upon Tyne East,North East,10586,26049,4535,2195,,,,,0,"63,796",0.68,Labour
+Newcastle upon Tyne North,E14000833,Newcastle upon Tyne North,North East,15589,21354,4357,1368,,,4331,,0,"68,486",0.69,Labour
+Sunderland Central,E14000982,Sunderland Central,North East,15372,18336,3025,1212,,,5047,,484,"72,672",0.60,Labour
+Washington & Sunderland West,E14001020,Washington & Sunderland West,North East,12218,15941,2071,1005,,,5439,839,0,"66,273",0.57,Labour
+Halton,E14000725,Halton,North West,10358,29333,1800,982,,,3730,,0,"71,930",0.64,Labour
+Basildon & Billericay,E14000544,Basildon & Billericay,East,29590,9178,3741,1395,,,,,224,"69,906",0.63,Conservative
+Broxbourne,E14000606,Broxbourne,East,30631,10824,3970,1281,,,,,0,"73,182",0.64,Conservative
+Jarrow,E14000765,Jarrow,North East,11243,18363,2360,831,,,4122,,3817,"65,103",0.63,Labour
+Makerfield,E14000805,Makerfield,North West,"15,214","19,954","2,108","1,166",,,"5,817",,0,"74,190",0.60,Labour
+Middlesbrough,E14000819,Middlesbrough,North East,8812,17202,816,546,,,216,,4548,"60,759",0.53,Labour
+South Shields,E14000944,South Shields,North East,7688,17273,1514,1303,,,6446,,3658,"62,793",0.60,Labour
+Wigan,E14001039,Wigan,North West,14314,21042,2428,1299,,,5959,,0,"75,680",0.60,Labour
+Workington,E14001053,Workington,North West,20488,16312,1525,596,,,1749,,929,"61,370",0.68,Conservative
+Down North,N06000013,Down North,Northern Ireland,1959,,,,,,,,38684,"67,099",0.61,OTHER
+Rutherglen & Hamilton West,S14000056,Rutherglen & Hamilton West,Scotland,8054,18545,2791,,23775,,,629,0,"80,918",0.66,SNP
+Darlington,E14000658,Darlington,North East,"20,901","17,607","2,097","1,057",,,"1,544",,292,"66,395",0.66,Conservative
+Nuneaton,E14000868,Nuneaton,West Midlands,27390,14246,1862,1692,,,,,0,"70,226",0.64,Conservative
+Kilmarnock & Loudoun,S14000040,Kilmarnock & Loudoun,Scotland,11557,9009,2444,,24216,,,,405,"74,517",0.64,SNP
+Swansea West,W07000047,Swansea West,Wales,10377,18493,2993,,,1984,1983,,0,"57,078",0.63,Labour
+Battersea,E14000549,Battersea,London,21622,27290,9150,1529,,,386,,0,"79,309",0.76,Labour
+Birkenhead,E14000559,Birkenhead,North West,5540,24990,1620,1405,,,1489,,7285,"63,762",0.66,Labour
+Blackburn,E14000570,Blackburn,North West,10736,29040,1130,741,,,2770,,319,"71,228",0.63,Labour
+Blaydon,E14000574,Blaydon,North East,14263,19794,3703,1279,,,5833,,809,"67,853",0.67,Labour
+Bootle,E14000581,Bootle,North West,4510,39066,1822,1166,,,2610,,0,"74,832",0.66,Labour
+Bracknell,E14000586,Bracknell,South East,31894,12065,7749,2089,,,,,553,"79,206",0.69,Conservative
+Burnley,E14000609,Burnley,North West,15720,14368,3501,739,,,3362,,1294,"64,343",0.61,Conservative
+Burton,E14000610,Burton,West Midlands,29560,15064,2681,1433,,,,,0,"75,030",0.65,Conservative
+Bury North,E14000611,Bury North,North West,21660,21555,1584,802,,,1240,,0,"68,802",0.68,Conservative
+Bury South,E14000612,Bury South,North West,22034,21632,2315,848,,,1672,,1773,"75,152",0.67,Conservative
+Cannock Chase,E14000618,Cannock Chase,West Midlands,31636,11757,,2920,,,,,0,"74,813",0.62,Conservative
+Carlisle,E14000620,Carlisle,North West,23659,15340,2829,,,,,1045,0,"65,105",0.66,Conservative
+Castle Point,E14000622,Castle Point,East,33971,7337,2969,,,,,,0,"69,643",0.64,Conservative
+Surrey East,E14000681,Surrey East,South East,35624,8247,11584,2340,,,,,1895,"83,148",0.72,Conservative
+Folkestone & Hythe,E14000704,Folkestone & Hythe,South East,35483,14146,5755,2706,,,,,915,"88,273",0.67,Conservative
+Fylde,E14000706,Fylde,North West,"28,432","11,821","3,748","1,731",,,,,927,"66,847",0.70,Conservative
+Gateshead,E14000709,Gateshead,North East,"13,250","20,450","2,792","1,653",,,,,0,"64,449",0.59,Labour
+Harlow,E14000729,Harlow,East,27510,13447,2397,,,,,,0,"68,078",0.64,Conservative
+Hartlepool,E14000733,Hartlepool,North East,11869,15464,1696,,,,10603,,1405,"70,855",0.58,Labour
+Hertsmere,E14000745,Hertsmere,East,32651,11338,6561,1653,,,,,0,"73,971",0.71,Conservative
+Huntingdon,E14000757,Huntingdon,East,32386,13003,9432,2233,,,,,2093,"84,657",0.70,Conservative
+Kettering,E14000769,Kettering,East Midlands,"29,787","13,022","3,367","1,543",,,,,"1,642","73,187",0.67,Conservative
+Hull North,E14000772,Hull North,Yorkshire and The Humber,9440,17033,2084,875,,,4771,,0,"65,515",0.52,Labour
+Knowsley,E14000775,Knowsley,North West,"4,432","44,374","1,117","1,262",,,"3,348",,405,"84,060",0.65,Labour
+Leigh,E14000785,Leigh,North West,21266,19301,2252,,,,3161,448,551,"77,417",0.61,Conservative
+Swindon North,E14000851,Swindon North,South West,32584,16413,4408,1710,,,,,0,"82,441",0.67,Conservative
+Tyneside North,E14000853,Tyneside North,North East,15490,25051,3241,1393,,,5254,,0,"78,902",0.64,Labour
+Warwickshire North,E14000854,Warwickshire North,West Midlands,30249,12293,2069,1303,,,,,0,"70,271",0.65,Conservative
+Leicestershire North West,E14000858,Leicestershire North West,East Midlands,33811,13411,3614,2478,,,,,507,"78,935",0.68,Conservative
+Putney,E14000887,Putney,London,18006,22780,8548,1133,,,,,0,"65,542",0.77,Labour
+Rugby,E14000905,Rugby,West Midlands,29225,15808,4207,1544,,,,,0,"72,340",0.70,Conservative
+Runnymede & Weybridge,E14000907,Runnymede & Weybridge,South East,29262,10992,9236,1876,,,,476,1447,"77,196",0.69,Conservative
+Rushcliffe,E14000908,Rushcliffe,East Midlands,28765,21122,9600,,,,,591,427,"77,055",0.79,Conservative
+Sefton Central,E14000916,Sefton Central,North West,14132,29254,3386,1261,,,2425,,422,"69,760",0.73,Labour
+Basildon South & Thurrock East,E14000933,Basildon South & Thurrock East,East,"29,973","10,051","1,957",,,,,,"3,316","74,441",0.61,Conservative
+Norfolk South,E14000941,Norfolk South,East,36258,14983,8744,2499,,,,,0,"86,214",0.72,Conservative
+St Helens North,E14000962,St Helens North,North West,12661,24870,2668,1966,,,5396,,0,"75,593",0.63,Labour
+St Helens South & Whiston,E14000963,St Helens South & Whiston,North West,10335,29457,2886,2282,,,5353,,0,"79,058",0.64,Labour
+Stockton North,E14000970,Stockton North,North East,16701,17728,1631,,,,3907,,1189,"66,676",0.62,Labour
+Stockton South,E14000971,Stockton South,North East,27764,22504,2338,,,,2196,,0,"76,895",0.71,Conservative
+Tamworth,E14000986,Tamworth,West Midlands,30542,10908,2426,935,,,,814,431,"71,580",0.64,Conservative
+Thurrock,E14000995,Thurrock,East,27795,16313,1510,807,,,,,1042,"79,655",0.60,Conservative
+Tooting,E14000998,Tooting,London,16504,30811,8305,2314,,,462,,77,"76,933",0.76,Labour
+Tynemouth,E14001006,Tynemouth,North East,22071,26928,3791,1281,,,1963,,0,"77,261",0.73,Labour
+Wallasey,E14001010,Wallasey,North West,11579,29901,1843,1132,,,2037,,0,"66,310",0.70,Labour
+Warley,E14001016,Warley,West Midlands,10390,21901,1588,891,,,2469,,0,"62,421",0.60,Labour
+Wellingborough,E14001025,Wellingborough,East Midlands,32277,13737,4078,1821,,,,,0,"80,764",0.64,Conservative
+West Bromwich East,E14001029,West Bromwich East,West Midlands,16804,15211,1313,627,,,1475,,545,"62,111",0.58,Conservative
+West Bromwich West,E14001030,West Bromwich West,West Midlands,17419,13620,915,664,,,1841,,0,"64,576",0.53,Conservative
+Wirral South,E14001043,Wirral South,North West,16179,22284,2917,948,,,1219,,0,"57,280",0.76,Labour
+Wirral West,E14001044,Wirral West,North West,17692,20695,2706,965,,,860,,0,"55,550",0.77,Labour
+Wolverhampton North East,E14001049,Wolverhampton North East,West Midlands,17722,13642,960,603,,,1354,,0,"61,829",0.55,Conservative
+Wycombe,E14001056,Wycombe,South East,24766,20552,6543,1454,,,,324,1117,"78,094",0.70,Conservative
+Yeovil,E14001060,Yeovil,South West,34588,3761,18407,1629,,,,,875,"82,468",0.72,Conservative
+Belfast West,N06000004,Belfast West,Northern Ireland,,,,,,,,,38782,"65,644",0.59,OTHER
+Londonderry East,N06000006,Londonderry East,Northern Ireland,,,,,,,,,39302,"69,246",0.57,OTHER
+Lagan Valley,N06000009,Lagan Valley,Northern Ireland,955,,,,,,,315,44135,"75,735",0.60,OTHER
+Strangford,N06000016,Strangford,Northern Ireland,1476,,,790,,,,308,34911,"66,928",0.56,OTHER
+"East Kilbride, Strathaven & Lesmahagow",S14000019,"East Kilbride, Strathaven & Lesmahagow",Scotland,11961,12791,3760,1153,26113,,,559,0,"81,224",0.69,SNP
+Lanark & Hamilton East,S14000042,Lanark & Hamilton East,Scotland,17056,10736,3037,,22243,,,,0,"77,659",0.68,SNP
+Midlothian,S14000045,Midlothian,Scotland,10467,14328,3393,,20033,,,,0,"70,544",0.68,SNP
+Dunbartonshire West,S14000059,Dunbartonshire West,Scotland,6436,12843,1890,867,22396,,,,708,"66,517",0.68,SNP
+Wrexham,W07000044,Wrexham,Wales,15199,13068,1447,445,,2151,1222,,0,"49,734",0.67,Conservative
+Llanelli,W07000045,Llanelli,Wales,11455,16125,,,,7048,3605,,0,"60,513",0.63,Labour
+Swansea East,W07000048,Swansea East,Wales,9435,17405,1409,583,,1905,2842,,0,"58,450",0.57,Labour
+Aberavon,W07000049,Aberavon,Wales,6518,17008,1072,450,,2711,3108,,731,"50,747",0.62,Labour
+Torfaen,W07000053,Torfaen,Wales,11804,15546,1831,812,,1441,5742,,0,"61,743",0.60,Labour
+Newport East,W07000055,Newport East,Wales,14133,16125,2121,577,,872,2454,,0,"58,554",0.62,Labour
+Newport West,W07000056,Newport West,Wales,18075,18977,2565,902,,1187,1727,,0,"66,657",0.65,Labour
+Arfon,W07000057,Arfon,Wales,4428,10353,,,,13134,1159,,0,"42,215",0.69,Plaid Cymru
+Dwyfor Meirionnydd,W07000061,Dwyfor Meirionnydd,Wales,9707,3998,,,,14447,1776,,0,"44,362",0.67,Plaid Cymru
+Clwyd South,W07000062,Clwyd South,Wales,16222,14983,1496,,,2137,1468,,0,"53,919",0.67,Conservative
+Blaenau Gwent,W07000072,Blaenau Gwent,Wales,5749,14862,1285,386,,1722,6215,,0,"50,736",0.60,Labour
+Pontypridd,W07000075,Pontypridd,Wales,11494,17381,,,,4990,2917,,2288,"60,327",0.65,Labour
+Caerphilly,W07000076,Caerphilly,Wales,11185,18018,,,,6424,4490,,0,"63,166",0.64,Labour
+Islwyn,W07000077,Islwyn,Wales,9892,15356,1313,669,,2286,4834,,0,"55,423",0.62,Labour
+Vale of Glamorgan,W07000078,Vale of Glamorgan,Wales,27305,23743,,3251,,,,,508,"76,508",0.72,Conservative
+Barnsley Central,E14000541,Barnsley Central,Yorkshire and The Humber,7892,14804,1176,900,,,11233,,898,"65,277",0.57,Labour
+Barnsley East,E14000542,Barnsley East,Yorkshire and The Humber,10377,14329,1330,922,,,11112,,0,"69,504",0.55,Labour
+Chichester,E14000633,Chichester,South East,35402,9069,13912,2527,,,,,333,"85,499",0.72,Conservative
+Chorley,E14000637,Chorley,North West,,,,"3,600",,,,,"36,270","78,177",0.51,OTHER
+Dover,E14000670,Dover,South East,28830,16552,2895,1371,,,,,1053,"76,355",0.66,Conservative
+Epping Forest,E14000693,Epping Forest,East,32364,10191,5387,1975,,,,,351,"74,305",0.68,Conservative
+Gainsborough,E14000707,Gainsborough,East Midlands,33893,10926,5157,,,,,,1070,"76,343",0.67,Conservative
+Harrogate & Knaresborough,E14000730,Harrogate & Knaresborough,Yorkshire and The Humber,29962,5480,20287,,,,,,1208,"77,914",0.73,Conservative
+Havant,E14000736,Havant,South East,30051,8259,5708,1597,,,,,344,"72,130",0.64,Conservative
+Ribble Valley,E14000894,Ribble Valley,North West,33346,14907,4776,1704,,,,,551,"79,247",0.70,Conservative
+Stratford-on-Avon,E14000977,Stratford-on-Avon,West Midlands,33343,6222,13371,2112,,,,,0,"74,038",0.74,Conservative
+Torbay,E14000999,Torbay,South West,29863,6562,12114,1239,,,,,648,"75,054",0.67,Conservative
+Watford,E14001021,Watford,East,26421,21988,9323,,,,,,333,"83,359",0.70,Conservative
+Angus,S14000004,Angus,Scotland,17421,2051,2482,,21216,,,,0,"63,952",0.68,SNP
+Dundee East,S14000015,Dundee East,Scotland,0,0,0,,0,,,,0,"66,210",0.00,Conservative
+Dundee West,S14000016,Dundee West,Scotland,5149,10096,2468,,22355,,1271,,240,"64,431",0.65,SNP
+Falkirk,S14000028,Falkirk,Scotland,14403,6243,3990,1885,29351,,,,0,"84,472",0.66,SNP
+Inverclyde,S14000038,Inverclyde,Scotland,6265,11783,2560,,19295,,,,0,"60,622",0.66,SNP
+Paisley & Renfrewshire North,S14000052,Paisley & Renfrewshire North,Scotland,11217,11451,3661,,23353,,,,0,"72,007",0.69,SNP
+Paisley & Renfrewshire South,S14000053,Paisley & Renfrewshire South,Scotland,7571,10958,2918,,21637,,,,0,"64,385",0.67,SNP
+Gower,W07000046,Gower,Wales,18371,20208,2236,,,2288,1379,,0,"61,762",0.72,Labour
+Neath,W07000069,Neath,Wales,10283,15920,1485,728,,4495,3184,,661,"56,416",0.65,Labour
+Aldershot,E14000530,Aldershot,South East,27980,11282,6920,1750,,,,,0,"72,617",0.66,Conservative
+Aldridge-Brownhills,E14000531,Aldridge-Brownhills,West Midlands,27850,8014,2371,771,,,,,336,"60,138",0.65,Conservative
+Amber Valley,E14000533,Amber Valley,East Midlands,29096,12210,2873,1388,,,,,0,"69,976",0.65,Conservative
+Ashford,E14000536,Ashford,South East,37270,13241,6048,2638,,,,,862,"89,550",0.67,Conservative
+Barking,E14000540,Barking,London,11792,27219,1482,820,,,3186,,0,"77,946",0.57,Labour
+Bath,E14000547,Bath,South West,16097,6639,28419,,,,642,,341,"67,725",0.77,Liberal Democrat
+Beaconsfield,E14000550,Beaconsfield,South East,32477,5756,,2033,,,,,17602,"77,720",0.74,Conservative
+Bedford,E14000552,Bedford,East,20346,20491,4608,960,,,896,,0,"71,579",0.66,Labour
+Birmingham Edgbaston,E14000560,Birmingham Edgbaston,West Midlands,15603,21217,3349,1112,,,1047,,0,"68,828",0.62,Labour
+Birmingham Erdington,E14000561,Birmingham Erdington,West Midlands,14119,17720,1301,648,,,1441,,0,"66,148",0.53,Labour
+Birmingham Ladywood,E14000564,Birmingham Ladywood,West Midlands,4773,33355,2228,931,,,831,,0,"74,912",0.56,Labour
+Birmingham Northfield,E14000565,Birmingham Northfield,West Midlands,19957,18317,1961,954,,,1655,254,0,"73,694",0.58,Conservative
+Birmingham Yardley,E14000568,Birmingham Yardley,West Midlands,12720,23379,3754,579,,,2246,,0,"74,704",0.57,Labour
+Bishop Auckland,E14000569,Bishop Auckland,North East,24067,16105,2133,,,,2500,,0,"68,170",0.66,Conservative
+Blackpool North & Cleveleys,E14000572,Blackpool North & Cleveleys,North West,22364,13768,1494,735,,,,,443,"63,691",0.61,Conservative
+Blackpool South,E14000573,Blackpool South,North West,16247,12557,1008,563,,,2009,,368,"57,688",0.57,Conservative
+Bolton North East,E14000578,Bolton North East,North West,19759,19381,1847,689,,,1880,,0,"67,564",0.64,Conservative
+Bolton South East,E14000579,Bolton South East,North West,13918,21516,1411,791,,,2968,,0,"69,163",0.59,Labour
+Bolton West,E14000580,Bolton West,North West,27255,18400,2704,939,,,,,0,"73,191",0.67,Conservative
+Brentwood & Ongar,E14000594,Brentwood & Ongar,East,36308,7243,1644,1679,,,,,103,"75,253",0.62,Conservative
+Bristol East,E14000599,Bristol East,South West,16923,27717,3527,2106,,,1881,,0,"73,867",0.71,Labour
+Bristol North West,E14000600,Bristol North West,South West,21638,27330,4940,1977,,,,,0,"76,273",0.73,Labour
+Bristol South,E14000601,Bristol South,South West,18036,27895,4227,2713,,,2325,,0,"84,079",0.66,Labour
+Bristol West,E14000602,Bristol West,South West,8822,47028,,18809,,,869,,0,"99,253",0.76,Labour
+Cambridge,E14000617,Cambridge,East,8342,25776,16137,2164,,,1041,,269,"79,951",0.67,Labour
+Devon Central,E14000623,Devon Central,South West,32095,14374,8770,2833,,,,,0,"74,926",0.78,Conservative
+Chelsea & Fulham,E14000629,Chelsea & Fulham,London,23345,10872,12104,,,,,,500,"67,110",0.70,Conservative
+Chesham & Amersham,E14000631,Chesham & Amersham,South East,30850,7166,14627,3042,,,,,0,"72,542",0.77,Conservative
+Chingford & Woodford Green,E14000634,Chingford & Woodford Green,London,23481,22219,2744,,,,,,0,"65,393",0.74,Conservative
+Christchurch,E14000638,Christchurch,South West,33894,6568,9277,2212,,,,,0,"71,521",0.73,Conservative
+Cities of London & Westminster,E14000639,Cities of London & Westminster,London,17049,11624,13096,728,,,,,226,"63,700",0.67,Conservative
+"Durham, City of",E14000641,"Durham, City of",North East,15506,20531,7935,1635,,,3252,,0,"71,271",0.69,Labour
+Clacton,E14000642,Clacton,East,31438,6736,2541,1225,,,,,1566,"70,930",0.61,Conservative
+Cleethorpes,E14000643,Cleethorpes,Yorkshire and The Humber,31969,10551,2535,1284,,,,,0,"73,689",0.63,Conservative
+Coventry North East,E14000649,Coventry North East,West Midlands,15720,23412,2061,1141,,,2110,,0,"76,002",0.58,Labour
+Coventry North West,E14000650,Coventry North West,West Midlands,20710,20918,2717,1443,,,1956,,0,"75,240",0.63,Labour
+Coventry South,E14000651,Coventry South,West Midlands,19143,19544,3398,1092,,,1432,,435,"70,970",0.63,Labour
+Crawley,E14000652,Crawley,South East,27040,18680,2728,1451,,,,,0,"74,207",0.67,Conservative
+Dagenham & Rainham,E14000657,Dagenham & Rainham,London,19175,19468,1182,602,,,2887,,421,"71,043",0.62,Labour
+Dartford,E14000659,Dartford,South East,34006,14846,3735,1435,,,,,0,"82,209",0.66,Conservative
+Don Valley,E14000667,Don Valley,Yorkshire and The Humber,19609,15979,1907,872,,,6247,,823,"75,356",0.60,Conservative
+Doncaster Central,E14000668,Doncaster Central,Yorkshire and The Humber,14360,16638,1748,981,,,6842,,1012,"71,389",0.58,Labour
+Doncaster North,E14000669,Doncaster North,Yorkshire and The Humber,13370,15740,1476,,,,8297,,1818,"72,362",0.56,Labour
+Ealing Central & Acton,E14000674,Ealing Central & Acton,London,14832,28132,9444,1735,,,664,,0,"75,510",0.73,Labour
+Ealing North,E14000675,Ealing North,London,15767,28036,4370,1458,,,,,0,"74,473",0.67,Labour
+Ealing Southall,E14000676,Ealing Southall,London,9594,25678,3933,1688,,,867,,457,"64,580",0.65,Labour
+Easington,E14000677,Easington,North East,9142,15723,1526,,,,6744,,1448,"61,182",0.57,Labour
+Eastbourne,E14000684,Eastbourne,South East,26951,3848,22620,,,,1530,,185,"79,307",0.70,Conservative
+Eastleigh,E14000685,Eastleigh,South East,32690,7559,17083,1639,,,,,0,"83,880",0.70,Conservative
+Edmonton,E14000687,Edmonton,London,10202,26217,2145,862,,,840,,75,"65,568",0.62,Labour
+Epsom & Ewell,E14000694,Epsom & Ewell,South East,31819,10226,13946,2047,,,,,1413,"81,138",0.73,Conservative
+Erewash,E14000695,Erewash,East Midlands,27560,16954,2487,1115,,,,,698,"72,519",0.67,Conservative
+Esher & Walton,E14000697,Esher & Walton,South East,31132,2838,28389,,,,,,725,"81,184",0.78,Conservative
+Fareham,E14000699,Fareham,South East,36459,10373,8006,2412,,,,,0,"78,337",0.73,Conservative
+Forest of Dean,E14000705,Forest of Dean,South West,30680,14811,,4681,,,,,1303,"71,438",0.72,Conservative
+Garston & Halewood,E14000708,Garston & Halewood,North West,6954,38578,3324,1183,,,2943,,344,"76,116",0.70,Labour
+Gedling,E14000710,Gedling,East Midlands,22718,22039,2279,1097,,,1820,,0,"71,438",0.70,Conservative
+Gloucester,E14000712,Gloucester,South West,29159,18882,4338,1385,,,,,0,"81,332",0.66,Conservative
+Grantham & Stamford,E14000714,Grantham & Stamford,East Midlands,36794,10791,6153,2265,,,,,0,"81,502",0.69,Conservative
+Great Grimsby,E14000716,Great Grimsby,Yorkshire and The Humber,18150,10819,1070,514,,,2378,,156,"61,409",0.54,Conservative
+Great Yarmouth,E14000717,Great Yarmouth,East,28593,10930,1661,1064,,,,,1214,"71,957",0.60,Conservative
+Guildford,E14000719,Guildford,South East,26375,4515,22980,,,,,,4839,"77,729",0.76,Conservative
+Hammersmith,E14000726,Hammersmith,London,12227,30074,6947,1744,,,974,,0,"74,759",0.70,Labour
+Hemel Hempstead,E14000739,Hemel Hempstead,East,28968,14405,6317,1581,,,,,0,"73,737",0.70,Conservative
+Heywood & Middleton,E14000747,Heywood & Middleton,North West,20453,19790,2073,1220,,,3952,,0,"80,162",0.59,Conservative
+High Peak,E14000748,High Peak,East Midlands,24844,24254,2750,1148,,,1177,,0,"74,343",0.73,Conservative
+Hornchurch & Upminster,E14000751,Hornchurch & Upminster,London,35495,12187,3862,1920,,,,,510,"80,765",0.67,Conservative
+Hyndburn,E14000758,Hyndburn,North West,20565,17614,1226,845,,,2156,,0,"70,910",0.60,Conservative
+Isle of Wight,E14000762,Isle of Wight,South East,41815,18078,,11338,,,,,3211,"113,021",0.66,Conservative
+Islington North,E14000763,Islington North,London,5483,34603,8415,4326,,,742,,236,"75,162",0.72,Labour
+Islington South & Finsbury,E14000764,Islington South & Finsbury,London,8045,26897,9569,1987,,,1136,,182,"70,489",0.68,Labour
+Kenilworth & Southam,E14000767,Kenilworth & Southam,West Midlands,30351,9440,9998,2351,,,,,457,"68,156",0.77,Conservative
+Hull East,E14000771,Hull East,Yorkshire and The Humber,11474,12713,1707,784,,,5764,,0,"65,745",0.49,Labour
+Hull West & Hessle,E14000773,Hull West & Hessle,Yorkshire and The Humber,10528,13384,1756,50,,,5638,,0,"60,409",0.52,Labour
+Leeds East,E14000778,Leeds East,Yorkshire and The Humber,13933,19464,1796,878,,,2981,,0,"67,286",0.58,Labour
+Leeds West,E14000781,Leeds West,Yorkshire and The Humber,11622,22186,1787,1274,,,2685,,727,"67,727",0.59,Labour
+Leicester South,E14000783,Leicester South,East Midlands,10931,33606,2754,1669,,,1187,,0,"77,665",0.65,Labour
+Lewisham East,E14000787,Lewisham East,London,9653,26661,5039,1706,,,1234,,522,"67,857",0.66,Labour
+Lewisham West & Penge,E14000788,Lewisham West & Penge,London,10317,31860,6260,2390,,,1060,,213,"74,615",0.70,Labour
+Lewisham Deptford,E14000789,Lewisham Deptford,London,6303,39216,5774,3085,,,789,,201,"80,617",0.69,Labour
+Leyton & Wanstead,E14000790,Leyton & Wanstead,London,8028,28836,4666,1805,,,785,,427,"64,852",0.69,Labour
+Liverpool Riverside,E14000793,Liverpool Riverside,North West,4127,41170,2696,3017,,,1779,,0,"80,310",0.66,Labour
+Liverpool Walton,E14000794,Liverpool Walton,North West,4018,34538,756,814,,,,,660,"62,628",0.65,Labour
+Liverpool Wavertree,E14000795,Liverpool Wavertree,North West,4225,31310,4055,1365,,,1921,,501,"63,458",0.68,Labour
+Liverpool West Derby,E14000796,Liverpool West Derby,North West,4133,34117,1296,605,,,2012,,1826,"65,640",0.67,Labour
+Luton North,E14000800,Luton North,East,14249,23496,3063,771,,,1250,,795,"68,185",0.64,Labour
+Luton South,E14000801,Luton South,East,13031,21787,,995,,,1601,,4650,"69,338",0.61,Labour
+Middlesbrough South & Cleveland East,E14000820,Middlesbrough South & Cleveland East,North East,28135,16509,1953,1220,,,,,0,"72,339",0.66,Conservative
+Mitcham & Morden,E14000823,Mitcham & Morden,London,11482,27978,3717,1160,,,1202,,216,"70,014",0.65,Labour
+New Forest East,E14000827,New Forest East,South East,32769,7518,7390,2434,,,,,675,"73,552",0.69,Conservative
+New Forest West,E14000828,New Forest West,South East,32113,6595,7710,3888,,,,,0,"70,867",0.71,Conservative
+Newbury,E14000830,Newbury,South East,34431,4404,18384,2454,,,,,325,"83,414",0.72,Conservative
+Newcastle-under-Lyme,E14000834,Newcastle-under-Lyme,West Midlands,23485,16039,2361,933,,,1921,,0,"68,211",0.66,Conservative
+Newton Abbot,E14000835,Newton Abbot,South West,29190,9329,11689,1508,,,,,840,"72,533",0.72,Conservative
+Durham North,E14000840,Durham North,North East,13897,18639,2879,1126,,,4693,,961,"66,796",0.63,Labour
+Somerset North,E14000850,Somerset North,South West,32801,15265,11051,2938,,,,,0,"80,194",0.77,Conservative
+Cambridgeshire North West,E14000855,Cambridgeshire North West,East,40307,14324,6881,3021,,,,,0,"94,909",0.68,Conservative
+Durham North West,E14000856,Durham North West,North East,19990,18846,2831,1173,,,3193,,1630,"72,166",0.66,Conservative
+Norfolk North West,E14000859,Norfolk North West,East,30627,10705,3625,1645,,,,,0,"72,080",0.65,Conservative
+Norwich North,E14000863,Norwich North,East,23397,18659,2663,1078,,,,488,0,"67,172",0.69,Conservative
+Norwich South,E14000864,Norwich South,East,15006,27766,4776,2469,,,1656,,0,"77,845",0.66,Labour
+Pendle,E14000875,Pendle,North West,24076,17890,1548,678,,,,,268,"65,289",0.68,Conservative
+Peterborough,E14000878,Peterborough,East,"22,334","19,754","2,334",728,,,"2,127",,524,"72,560",0.66,Conservative
+Preston,E14000885,Preston,North West,8724,20870,1737,660,,,1799,,0,"59,672",0.57,Labour
+Redcar,E14000891,Redcar,North East,18811,15284,2018,491,,,2915,,1323,"65,855",0.62,Conservative
+Reigate,E14000893,Reigate,South East,28665,10355,10320,3169,,,,647,0,"74,842",0.71,Conservative
+Rochdale,E14000897,Rochdale,North West,14807,24475,3312,986,,,3867,,0,"78,909",0.60,Labour
+Rochford & Southend East,E14000899,Rochford & Southend East,East,27063,14777,2822,,,,,,1474,"75,624",0.61,Conservative
+Romford,E14000900,Romford,London,30494,12601,2708,1428,,,,,0,"72,350",0.65,Conservative
+Saffron Walden,E14000910,Saffron Walden,East,39714,8305,12120,2947,,,,,0,"87,017",0.73,Conservative
+Salford & Eccles,E14000911,Salford & Eccles,North West,12428,28755,3099,2060,,,4290,,0,"82,202",0.62,Labour
+Sedgefield,E14000915,Sedgefield,North East,19609,15096,1955,994,,,3518,,394,"64,325",0.65,Conservative
+Sevenoaks,E14000918,Sevenoaks,South East,30932,6946,10114,1974,,,,,990,"71,777",0.71,Conservative
+Sheffield Central,E14000919,Sheffield Central,Yorkshire and The Humber,6695,33968,3237,4570,,,1969,,474,"89,849",0.57,Labour
+Sheffield South East,E14000920,Sheffield South East,Yorkshire and The Humber,15070,19359,2125,,,,4478,,966,"67,832",0.62,Labour
+Sheffield Brightside & Hillsborough,E14000921,Sheffield Brightside & Hillsborough,Yorkshire and The Humber,10095,22369,1517,1179,,,3855,585,0,"69,333",0.57,Labour
+Sheffield Hallam,E14000922,Sheffield Hallam,Yorkshire and The Humber,14696,19709,18997,1630,,,1562,168,123,"72,763",0.78,Labour
+Sheffield Heeley,E14000923,Sheffield Heeley,Yorkshire and The Humber,12955,21475,2916,1811,,,3538,,0,"66,940",0.64,Labour
+Shrewsbury & Atcham,E14000926,Shrewsbury & Atcham,West Midlands,31021,19804,5906,1762,,,,,572,"82,237",0.72,Conservative
+Sittingbourne & Sheppey,E14000927,Sittingbourne & Sheppey,South East,34742,10263,3213,1188,,,,,1988,"83,917",0.61,Conservative
+Cambridgeshire South,E14000934,Cambridgeshire South,East,31015,7803,28111,,,,,,0,"87,288",0.77,Conservative
+Derbyshire South,E14000935,Derbyshire South,East Midlands,33502,14167,3924,1788,,,,,0,"79,365",0.67,Conservative
+South Holland & The Deepings,E14000939,South Holland & The Deepings,East Midlands,37338,6500,3225,1613,,,,,503,"75,990",0.65,Conservative
+South Ribble,E14000943,South Ribble,North West,30028,18829,3720,1207,,,,,0,"75,344",0.71,Conservative
+Southend West,E14000957,Southend West,East,27555,13096,5312,,,,,,574,"69,043",0.67,Conservative
+Southport,E14000958,Southport,North West,22914,18767,6499,,,,,,0,"70,837",0.68,Conservative
+Stafford,E14000965,Stafford,West Midlands,29992,15615,3175,2367,,,,,0,"72,572",0.70,Conservative
+Staffordshire Moorlands,E14000966,Staffordshire Moorlands,West Midlands,28192,11764,2469,1231,,,,,0,"65,485",0.67,Conservative
+Stevenage,E14000968,Stevenage,East,25328,16766,4132,1457,,,,,0,"71,562",0.67,Conservative
+Stroud,E14000980,Stroud,South West,31582,27742,,4954,,,1085,,567,"84,536",0.78,Conservative
+Suffolk Coastal,E14000981,Suffolk Coastal,East,32958,12425,8719,2713,,,,,1493,"81,910",0.71,Conservative
+Surrey Heath,E14000983,Surrey Heath,South East,34358,5407,16009,2252,,,,628,0,"81,349",0.72,Conservative
+Sutton Coldfield,E14000985,Sutton Coldfield,West Midlands,31604,12332,6358,2031,,,,,0,"75,638",0.69,Conservative
+Telford,E14000989,Telford,West Midlands,25546,14605,2674,,,,,,0,"68,921",0.62,Conservative
+"Cotswolds, The",E14000991,"Cotswolds, The",South West,35484,7110,15270,3312,,,,,0,"81,939",0.75,Conservative
+"Wrekin, The",E14000992,"Wrekin, The",West Midlands,31029,12303,4067,1491,,,,,0,"70,693",0.69,Conservative
+Tonbridge & Malling,E14000997,Tonbridge & Malling,South East,35784,8286,8843,4090,,,,,0,"77,380",0.74,Conservative
+Tunbridge Wells,E14001004,Tunbridge Wells,South East,30119,8098,15474,,,,,,959,"74,816",0.73,Conservative
+Walsall North,E14001011,Walsall North,West Midlands,23334,11369,1236,617,,,,,0,"67,177",0.54,Conservative
+Walsall South,E14001012,Walsall South,West Midlands,17416,20872,1602,634,,,1660,,288,"68,024",0.62,Labour
+Walthamstow,E14001013,Walthamstow,London,5922,36784,2874,1733,,,768,,254,"70,268",0.69,Labour
+Wealden,E14001023,Wealden,South East,37043,9377,11388,3099,,,,,0,"83,038",0.73,Conservative
+Welwyn Hatfield,E14001027,Welwyn Hatfield,East,27394,16439,6602,1618,,,,,0,"74,892",0.70,Conservative
+Suffolk West,E14001034,Suffolk West,East,33842,10648,4685,2262,,,,,0,"80,192",0.64,Conservative
+Westminster North,E14001036,Westminster North,London,12481,23240,5593,1064,,,418,,115,"65,519",0.65,Labour
+Weston-Super-Mare,E14001038,Weston-Super-Mare,South West,31983,14862,6935,1834,,,,,0,"82,526",0.67,Conservative
+Wimbledon,E14001040,Wimbledon,London,20373,12543,19745,,,,,,366,"68,232",0.78,Conservative
+Wokingham,E14001048,Wokingham,South East,30734,6450,23351,1382,,,,,80,"83,953",0.74,Conservative
+Wolverhampton South East,E14001050,Wolverhampton South East,West Midlands,14287,15522,1019,521,,,2094,,0,"63,006",0.53,Labour
+Wolverhampton South West,E14001051,Wolverhampton South West,West Midlands,19864,18203,2041,,,,1028,,0,"60,895",0.68,Conservative
+Worcester,E14001052,Worcester,West Midlands,25856,19098,3666,1694,,,,,584,"73,475",0.69,Conservative
+Worsley & Eccles South,E14001054,Worsley & Eccles South,North West,17345,20446,2510,1300,,,3224,,0,"75,219",0.60,Labour
+Wyre Forest,E14001058,Wyre Forest,West Midlands,32960,11547,4081,1973,,,,,0,"78,079",0.65,Conservative
+Belfast East,N06000001,Belfast East,Northern Ireland,,,,,,,,,42445,"66,245",0.64,OTHER
+Belfast North,N06000002,Belfast North,Northern Ireland,,,,,,,,,49037,"72,225",0.68,OTHER
+Belfast South,N06000003,Belfast South,Northern Ireland,,,,,,,,,47352,"69,984",0.68,OTHER
+Antrim East,N06000005,Antrim East,Northern Ireland,1043,,,685,,,,,35533,"64,830",0.57,OTHER
+Foyle,N06000008,Foyle,Northern Ireland,,,,,,,,,47143,"74,346",0.63,OTHER
+Ulster Mid,N06000010,Ulster Mid,Northern Ireland,,,,,,,,,44620,"70,449",0.63,OTHER
+Antrim North,N06000012,Antrim North,Northern Ireland,,,,,,,,,44051,"77,134",0.57,OTHER
+Antrim South,N06000014,Antrim South,Northern Ireland,,,,,,,,,42974,"71,711",0.60,OTHER
+Down South,N06000015,Down South,Northern Ireland,,,,,,,,,49762,"79,175",0.63,OTHER
+Aberdeen North,S14000001,Aberdeen North,Scotland,7535,4939,2846,880,20205,,1008,,0,"62,489",0.60,SNP
+Aberdeen South,S14000002,Aberdeen South,Scotland,16398,3834,5018,,20388,,,,0,"65,719",0.69,SNP
+Airdrie & Shotts,S14000003,Airdrie & Shotts,Scotland,7011,12728,1419,685,17929,,,,0,"64,008",0.62,SNP
+"Ayr, Carrick & Cumnock",S14000006,"Ayr, Carrick & Cumnock",Scotland,17943,6219,2158,,20272,,,,0,"71,970",0.65,SNP
+Dunfermline & Fife West,S14000017,Dunfermline & Fife West,Scotland,11207,13028,4262,1258,23727,,,,0,"76,652",0.70,SNP
+Dunbartonshire East,S14000018,Dunbartonshire East,Scotland,7455,4839,19523,916,19672,,,208,418,"66,075",0.80,SNP
+East Lothian,S14000020,East Lothian,Scotland,15523,17270,4071,,21156,,,493,0,"81,600",0.72,SNP
+Renfrewshire East,S14000021,Renfrewshire East,Scotland,19451,6855,4174,,24877,,,,0,"72,232",0.77,SNP
+Na h-Eileanan an Iar,S14000027,Na h-Eileanan an Iar,Scotland,3216,4093,637,,6531,,,,0,"21,106",0.69,SNP
+Glasgow Central,S14000029,Glasgow Central,Scotland,3698,13276,1952,1429,19750,,,,0,"69,230",0.58,SNP
+Glasgow East,S14000030,Glasgow East,Scotland,5709,12791,1626,,18357,,,,0,"67,381",0.57,SNP
+Glasgow North,S14000031,Glasgow North,Scotland,3806,11381,2394,1308,16982,,320,,0,"57,130",0.63,SNP
+Glasgow North East,S14000032,Glasgow North East,Scotland,3558,13363,1093,,15911,,,,0,"61,075",0.56,SNP
+Glasgow North West,S14000033,Glasgow North West,Scotland,6022,11319,2716,,19678,,,,0,"63,402",0.63,SNP
+Glasgow South,S14000034,Glasgow South,Scotland,6237,13824,2786,1251,22829,,516,,0,"70,891",0.67,SNP
+Glasgow South West,S14000035,Glasgow South West,Scotland,4224,12743,1435,,17643,,802,,0,"64,575",0.57,SNP
+Glenrothes,S14000036,Glenrothes,Scotland,6920,9477,2639,,21234,,1276,,0,"65,762",0.63,SNP
+Kirkcaldy & Cowdenbeath,S14000041,Kirkcaldy & Cowdenbeath,Scotland,9449,15325,2903,1628,16568,,1132,,0,"72,853",0.65,SNP
+Linlithgow & Falkirk East,S14000043,Linlithgow & Falkirk East,Scotland,14285,10517,4393,1184,25551,,1257,,588,"87,044",0.66,SNP
+Livingston,S14000044,Livingston,Scotland,12182,11915,3457,1421,25617,,,,0,"82,285",0.66,SNP
+Ayrshire North & Arran,S14000048,Ayrshire North & Arran,Scotland,14855,6702,2107,114,23376,,,,0,"73,534",0.64,SNP
+Ochil & Perthshire South,S14000050,Ochil & Perthshire South,Scotland,22384,4961,3204,,26882,,,382,0,"78,776",0.73,SNP
+Stirling,S14000057,Stirling,Scotland,17641,4275,2867,942,26895,,,,0,"68,473",0.77,SNP
+Ynys Mon,W07000041,Ynys Mon,Wales,12959,10991,,,,10418,2184,,0,"51,925",0.70,Conservative
+Delyn,W07000042,Delyn,Wales,16756,15891,2346,,,1406,1971,,0,"54,552",0.70,Conservative
+Alyn & Deeside,W07000043,Alyn & Deeside,Wales,18058,18271,2548,,,1453,2678,,0,"62,783",0.69,Labour
+Cardiff Central,W07000050,Cardiff Central,Wales,8426,25605,6298,,,,1006,,487,"64,037",0.65,Labour
+Cardiff North,W07000051,Cardiff North,Wales,19082,26064,3580,820,,1606,1311,,203,"68,438",0.77,Labour
+Rhondda,W07000052,Rhondda,Wales,4675,16115,612,438,,4069,3733,,0,"50,262",0.59,Labour
+Vale of Clwyd,W07000060,Vale of Clwyd,Wales,17270,15443,1471,,,1552,1477,,0,"56,649",0.66,Conservative
+Montgomeryshire,W07000063,Montgomeryshire,Wales,20020,5585,7882,,,,,,727,"48,997",0.70,Conservative
+Carmarthen East & Dinefwr,W07000067,Carmarthen East & Dinefwr,Wales,14130,8622,,,,15939,2311,,0,"57,407",0.71,Plaid Cymru
+Brecon & Radnorshire,W07000068,Brecon & Radnorshire,Wales,21958,3944,14827,,,,,,590,"55,490",0.74,Conservative
+Cynon Valley,W07000070,Cynon Valley,Wales,6711,15533,949,,,2562,3045,,1436,"51,134",0.59,Labour
+Bridgend,W07000073,Bridgend,Wales,18193,17036,2368,815,,2013,1811,,0,"63,303",0.67,Conservative
+Ogmore,W07000074,Ogmore,Wales,9797,17602,1460,621,,2919,2991,,0,"57,581",0.61,Labour
+Bexleyheath & Crayford,E14000558,Bexleyheath & Crayford,London,25856,12753,2819,1298,,,,,520,"65,466",0.66,Conservative
+Bromsgrove,E14000605,Bromsgrove,West Midlands,34408,11302,6779,1783,,,,,0,"75,079",0.72,Conservative
+Chesterfield,E14000632,Chesterfield,East Midlands,16720,18171,3985,1148,,,4771,,391,"70,994",0.64,Labour
+Colchester,E14000644,Colchester,East,26917,17494,7432,1530,,,,,0,"82,625",0.65,Conservative
+Eltham,E14000690,Eltham,London,17353,20550,2941,1322,,,1523,,0,"64,084",0.68,Labour
+Greenwich & Woolwich,E14000718,Greenwich & Woolwich,London,11721,30185,7253,2363,,,1228,,370,"79,997",0.66,Labour
+Harwich & Essex North,E14000734,Harwich & Essex North,East,31830,11648,5866,1945,,,,,674,"74,153",0.70,Conservative
+Hastings & Rye,E14000735,Hastings & Rye,South East,26896,22853,3960,,,,,,565,"80,524",0.67,Conservative
+Hertford & Stortford,E14000744,Hertford & Stortford,East,33712,14092,8596,2705,,,,681,308,"82,407",0.73,Conservative
+Kingston & Surbiton,E14000770,Kingston & Surbiton,London,20614,6528,31103,1038,,,788,124,651,"81,975",0.74,Liberal Democrat
+Leeds Central,E14000777,Leeds Central,Yorkshire and The Humber,11143,30413,2343,2105,,,2999,,281,"90,971",0.54,Labour
+Lewes,E14000786,Lewes,South East,26268,3206,23811,1453,,,,,113,"71,503",0.77,Conservative
+Meriden,E14000812,Meriden,West Midlands,34358,11522,5614,2667,,,,,0,"85,368",0.63,Conservative
+Worcestershire Mid,E14000818,Worcestershire Mid,West Midlands,37426,9408,6474,2177,,,,,638,"78,221",0.72,Conservative
+Devon North,E14000838,Devon North,South West,31479,5097,16666,1759,,,,,580,"75,853",0.73,Conservative
+Portsmouth North,E14000883,Portsmouth North,South East,28172,12392,3419,1304,,,,,623,"71,299",0.64,Conservative
+Portsmouth South,E14000884,Portsmouth South,South East,17705,23068,5418,,,,994,,240,"74,186",0.64,Labour
+Solihull,E14000931,Solihull,West Midlands,32309,11036,9977,2022,,,,,0,"78,760",0.70,Conservative
+Totnes,E14001001,Totnes,South West,27751,8860,15027,,,,,,544,"69,863",0.75,Conservative
+Worcestershire West,E14001035,Worcestershire West,West Midlands,34909,9496,10410,2715,,,,,0,"76,267",0.75,Conservative
+Westmorland & Lonsdale,E14001037,Westmorland & Lonsdale,North West,23861,2293,25795,,,,763,,0,"67,789",0.78,Liberal Democrat
+Moray,S14000046,Moray,Scotland,22112,2432,2269,,21599,,,413,0,"71,035",0.69,Conservative
+Perth & Perthshire North,S14000054,Perth & Perthshire North,Scotland,19812,2471,3780,,27362,,651,,0,"72,600",0.74,SNP
+Aberconwy,W07000058,Aberconwy,Wales,14687,12653,1821,,,2704,,,0,"44,699",0.71,Conservative
+Clwyd West,W07000059,Clwyd West,Wales,20403,13656,2237,,,3907,,,0,"57,714",0.70,Conservative
+Altrincham & Sale West,E14000532,Altrincham & Sale West,North West,26311,20172,6036,1566,,,,,678,"73,096",0.75,Conservative
+Aylesbury,E14000538,Aylesbury,South East,32737,15364,10081,2394,,,,,0,"86,665",0.70,Conservative
+Banbury,E14000539,Banbury,South East,34148,17335,8831,2607,,,,,0,"90,113",0.70,Conservative
+Bassetlaw,E14000546,Bassetlaw,East Midlands,28078,14065,3332,,,,5366,,0,"80,035",0.64,Conservative
+Batley & Spen,E14000548,Batley & Spen,Yorkshire and The Humber,19069,22594,2462,692,,,1678,,6432,"79,558",0.67,Labour
+Beckenham,E14000551,Beckenham,London,27282,13024,8194,2055,,,,,0,"68,671",0.74,Conservative
+Berwick-upon-Tweed,E14000554,Berwick-upon-Tweed,North East,23947,9112,7656,1394,,,,,0,"59,939",0.70,Conservative
+Bexhill & Battle,E14000557,Bexhill & Battle,South East,37590,11531,7280,2692,,,,,0,"81,968",0.72,Conservative
+Birmingham Hall Green,E14000562,Birmingham Hall Green,West Midlands,7381,35889,3673,818,,,877,,4273,"80,283",0.66,Labour
+Birmingham Hodge Hill,E14000563,Birmingham Hodge Hill,West Midlands,6742,35397,760,328,,,1519,,257,"78,295",0.57,Labour
+Birmingham Perry Barr,E14000566,Birmingham Perry Barr,West Midlands,11277,26594,1901,845,,,1382,,148,"72,006",0.59,Labour
+Birmingham Selly Oak,E14000567,Birmingham Selly Oak,West Midlands,15300,27714,3169,1848,,,1436,,0,"82,665",0.60,Labour
+Blackley & Broughton,E14000571,Blackley & Broughton,North West,9485,23887,1590,920,,,2736,,0,"73,372",0.53,Labour
+Boston & Skegness,E14000582,Boston & Skegness,East Midlands,31963,6342,1963,,,,,,1428,"69,265",0.60,Conservative
+Bosworth,E14000583,Bosworth,East Midlands,36056,9778,9096,1502,,,,,0,"81,537",0.69,Conservative
+Bournemouth East,E14000584,Bournemouth East,South West,24926,16120,5418,2049,,,,,761,"74,127",0.66,Conservative
+Bournemouth West,E14000585,Bournemouth West,South West,24550,14400,4931,2096,,,,,0,"74,211",0.62,Conservative
+Braintree,E14000590,Braintree,East,34112,9439,4779,,,,,,2169,"75,208",0.67,Conservative
+Brent Central,E14000591,Brent Central,London,10909,31779,4844,1600,,,,,0,"84,204",0.58,Labour
+Brent North,E14000592,Brent North,London,18832,26911,4065,850,,,951,,270,"83,772",0.62,Labour
+Brentford & Isleworth,E14000593,Brentford & Isleworth,London,18752,29266,7314,1829,,,1165,,0,"85,770",0.68,Labour
+Brigg & Goole,E14000596,Brigg & Goole,Yorkshire and The Humber,30941,9000,2180,1281,,,,,0,"65,939",0.66,Conservative
+Bromley & Chislehurst,E14000604,Bromley & Chislehurst,London,23958,13067,6621,1546,,,,,374,"66,711",0.68,Conservative
+Bury St Edmunds,E14000613,Bury St Edmunds,East,37770,12782,,9711,,,,,1694,"89,644",0.69,Conservative
+Canterbury,E14000619,Canterbury,South East,27182,29018,3408,,,,,,505,"80,203",0.75,Labour
+Carshalton & Wallington,E14000621,Carshalton & Wallington,London,20822,6081,20193,759,,,1043,,200,"72,926",0.67,Conservative
+Suffolk Central & Ipswich North,E14000624,Suffolk Central & Ipswich North,East,35253,11862,6485,2650,,,,,0,"76,201",0.74,Conservative
+Charnwood,E14000625,Charnwood,East Midlands,35121,12724,4856,2664,,,,,0,"79,556",0.70,Conservative
+Chelmsford,E14000628,Chelmsford,East,31934,10295,14313,,,,,,580,"80,481",0.71,Conservative
+Cheltenham,E14000630,Cheltenham,South West,28486,2921,27505,,,,,,445,"81,043",0.73,Conservative
+Chippenham,E14000635,Chippenham,South West,30994,6399,19706,,,,,,0,"77,225",0.74,Conservative
+Congleton,E14000646,Congleton,North West,33747,15186,6026,1616,,,,,658,"80,930",0.71,Conservative
+Copeland,E14000647,Copeland,North West,22856,17014,1888,765,,,,,0,"61,693",0.69,Conservative
+Crewe & Nantwich,E14000653,Crewe & Nantwich,North West,28704,20196,2618,975,,,1390,,149,"80,321",0.67,Conservative
+Croydon Central,E14000654,Croydon Central,London,21175,27124,3532,1215,,,999,,0,"81,410",0.66,Labour
+Croydon North,E14000655,Croydon North,London,11822,36495,4476,1629,,,839,,348,"88,466",0.63,Labour
+Croydon South,E14000656,Croydon South,London,30985,18646,7503,1782,,,,442,0,"83,977",0.71,Conservative
+Daventry,E14000660,Daventry,East Midlands,37055,10975,7032,2341,,,,,0,"77,521",0.74,Conservative
+Dudley South,E14000672,Dudley South,West Midlands,24835,9270,1608,863,,,,,0,"60,731",0.60,Conservative
+Dulwich & West Norwood,E14000673,Dulwich & West Norwood,London,9160,36521,,9211,,,571,73,242,"84,663",0.66,Labour
+East Ham,E14000679,East Ham,London,8527,41703,2158,883,,,1107,,250,"88,316",0.62,Labour
+Hampshire East,E14000680,Hampshire East,South East,33446,6287,13750,2600,,,,616,196,"76,478",0.74,Conservative
+Ellesmere Port & Neston,E14000688,Ellesmere Port & Neston,North West,17237,26001,2406,964,,,2138,,0,"70,327",0.69,Labour
+Enfield North,E14000691,Enfield North,London,16848,23340,2950,1115,,,797,,0,"68,066",0.66,Labour
+Erith & Thamesmead,E14000696,Erith & Thamesmead,London,16124,19882,1984,876,,,2246,,272,"65,399",0.63,Labour
+Exeter,E14000698,Exeter,South West,19479,29882,,4838,,,1428,259,306,"82,043",0.68,Labour
+Feltham & Heston,E14000701,Feltham & Heston,London,17017,24876,3127,1133,,,1658,,0,"80,932",0.59,Labour
+Gosport,E14000713,Gosport,South East,32226,8948,5473,1806,,,,,0,"73,569",0.66,Conservative
+Hackney North & Stoke Newington,E14000720,Hackney North & Stoke Newington,London,6784,39972,4283,4989,,,609,,227,"92,451",0.62,Labour
+Hackney South & Shoreditch,E14000721,Hackney South & Shoreditch,London,5899,39884,4853,2948,,,744,,111,"89,380",0.61,Labour
+Haltemprice & Howden,E14000724,Haltemprice & Howden,Yorkshire and The Humber,31045,10716,5215,1764,,,,,1039,"71,062",0.70,Conservative
+Harborough,E14000728,Harborough,East Midlands,31698,14420,9103,1709,,,,,389,"80,480",0.71,Conservative
+Harrow East,E14000731,Harrow East,London,26935,18765,3791,,,,,,0,"72,120",0.69,Conservative
+Harrow West,E14000732,Harrow West,London,16440,25132,4310,1109,,,931,,0,"72,477",0.66,Labour
+Hayes & Harlington,E14000737,Hayes & Harlington,London,15284,24545,1947,739,,,1292,,187,"72,356",0.61,Labour
+Henley,E14000742,Henley,South East,32189,5698,18136,2736,,,,,0,"76,660",0.77,Conservative
+Hereford & Herefordshire South,E14000743,Hereford & Herefordshire South,West Midlands,30390,10704,6181,2371,,,,,0,"72,085",0.69,Conservative
+Hexham,E14000746,Hexham,North East,25152,14603,4672,1723,,,,,0,"61,324",0.75,Conservative
+Hitchin & Harpenden,E14000749,Hitchin & Harpenden,East,27719,9959,20824,,,,,,369,"76,321",0.77,Conservative
+Hornsey & Wood Green,E14000752,Hornsey & Wood Green,London,6829,35126,15884,2192,,,763,,311,"81,814",0.75,Labour
+Horsham,E14000753,Horsham,South East,35900,9424,14773,2668,,,,,477,"86,730",0.73,Conservative
+Huddersfield,E14000756,Huddersfield,Yorkshire and The Humber,15572,20509,2367,1768,,,1666,,0,"65,525",0.64,Labour
+Ilford North,E14000759,Ilford North,London,20105,25323,2680,845,,,960,,201,"72,963",0.69,Labour
+Ilford South,E14000760,Ilford South,London,10984,35085,1795,714,,,1008,,3891,"84,957",0.63,Labour
+Ipswich,E14000761,Ipswich,East,24952,19473,2439,1283,,,1432,,0,"75,525",0.66,Conservative
+Lancaster & Fleetwood,E14000776,Lancaster & Fleetwood,North West,18804,21184,2018,1396,,,1817,,0,"70,059",0.65,Labour
+Leeds North West,E14000780,Leeds North West,Yorkshire and The Humber,13222,23971,9397,1389,,,1304,,0,"67,741",0.73,Labour
+Leicester East,E14000782,Leicester East,East Midlands,19071,25090,2800,888,,,1243,,329,"78,432",0.63,Labour
+Leicester West,E14000784,Leicester West,East Midlands,13079,17291,1808,977,,,1620,,0,"64,918",0.54,Labour
+Lichfield,E14000791,Lichfield,West Midlands,34844,11206,5632,1743,,,,,568,"76,751",0.70,Conservative
+Lincoln,E14000792,Lincoln,East Midlands,24267,20753,2422,1195,,,1079,,913,"74,778",0.68,Conservative
+Loughborough,E14000797,Loughborough,East Midlands,27954,20785,4153,1504,,,,,235,"79,776",0.68,Conservative
+Louth & Horncastle,E14000798,Louth & Horncastle,East Midlands,38021,9153,4114,,,,,,1044,"79,648",0.66,Conservative
+Maidenhead,E14000803,Maidenhead,South East,32620,7882,13774,2216,,,,,0,"76,668",0.74,Conservative
+Maldon,E14000806,Maldon,East,36304,6263,5990,1851,,,,,0,"72,641",0.69,Conservative
+Manchester Central,E14000807,Manchester Central,North West,7734,36823,3420,1870,,,2335,,107,"94,247",0.55,Labour
+Manchester Gorton,E14000808,Manchester Gorton,North West,4244,34583,2448,1697,,,1573,,0,"76,419",0.58,Labour
+Manchester Withington,E14000809,Manchester Withington,North West,5820,35902,7997,1968,,,1308,,0,"76,530",0.69,Labour
+Bedfordshire Mid,E14000813,Bedfordshire Mid,East,38692,14028,8171,2478,,,,,1348,"87,795",0.74,Conservative
+Dorset Mid & Poole North,E14000815,Dorset Mid & Poole North,South West,29548,3402,14650,1330,,,,,0,"65,426",0.75,Conservative
+Milton Keynes South,E14000822,Milton Keynes South,South East,32011,25067,4688,1495,,,,,746,"96,343",0.66,Conservative
+Mole Valley,E14000824,Mole Valley,South East,31656,2965,19615,1874,,,,464,536,"74,665",0.76,Conservative
+Morley & Outwood,E14000826,Morley & Outwood,Yorkshire and The Humber,29424,18157,2285,1107,,,,,957,"78,803",0.66,Conservative
+Newark,E14000829,Newark,East Midlands,34660,12844,5308,1950,,,,,0,"75,855",0.72,Conservative
+Bedfordshire North East,E14000841,Bedfordshire North East,East,38443,14160,7999,1891,,,,,2525,"90,679",0.72,Conservative
+Cambridgeshire North East,E14000842,Cambridgeshire North East,East,38423,8430,4298,1813,,,,,0,"83,699",0.63,Conservative
+Hampshire North East,E14000844,Hampshire North East,South East,35280,5760,15069,1754,,,,,1407,"78,954",0.75,Conservative
+Hertfordshire North East,E14000845,Hertfordshire North East,East,31293,13104,8563,2367,,,,,0,"76,123",0.73,Conservative
+Somerset North East,E14000846,Somerset North East,South West,28360,13631,12422,1423,,,,,472,"73,665",0.76,Conservative
+Herefordshire North,E14000847,Herefordshire North,West Midlands,32158,6804,7302,4769,,,,,0,"70,252",0.73,Conservative
+Norfolk North,E14000848,Norfolk North,East,29792,3895,15397,,,,1739,,0,"70,729",0.72,Conservative
+Hampshire North West,E14000857,Hampshire North West,South East,36591,9327,10283,2717,,,,,0,"83,083",0.71,Conservative
+Wiltshire North,E14000860,Wiltshire North,South West,32373,5699,14747,1939,,,,,0,"73,283",0.75,Conservative
+Nottingham East,E14000865,Nottingham East,East Midlands,8342,25735,1954,1183,,,1343,,1447,"66,262",0.60,Labour
+Nottingham North,E14000866,Nottingham North,East Midlands,12847,17337,1582,868,,,2686,,0,"66,495",0.53,Labour
+Nottingham South,E14000867,Nottingham South,East Midlands,14018,26586,3935,1583,,,2012,,0,"79,485",0.61,Labour
+Old Bexley & Sidcup,E14000869,Old Bexley & Sidcup,London,29786,10834,3822,1477,,,,,226,"66,104",0.70,Conservative
+Oldham East & Saddleworth,E14000870,Oldham East & Saddleworth,North West,18589,20088,2423,778,,,2980,,1306,"72,173",0.64,Labour
+Oldham West & Royton,E14000871,Oldham West & Royton,North West,13452,24579,1484,681,,,3316,389,533,"73,063",0.61,Labour
+Orpington,E14000872,Orpington,London,30882,8504,7552,1783,,,,,0,"68,884",0.71,Conservative
+Oxford East,E14000873,Oxford East,South East,10303,28135,6884,2392,,,1146,,499,"77,947",0.63,Labour
+Penistone & Stocksbridge,E14000876,Penistone & Stocksbridge,Yorkshire and The Humber,23688,16478,5054,,,,4300,,0,"70,925",0.70,Conservative
+Penrith & The Border,E14000877,Penrith & The Border,North West,28875,10356,5364,2159,,,,,1070,"67,555",0.71,Conservative
+Plymouth Moor View,E14000879,Plymouth Moor View,South West,26831,13934,2301,1173,,,,,0,"69,430",0.64,Conservative
+Plymouth Sutton & Devonport,E14000880,Plymouth Sutton & Devonport,South West,20704,25461,2545,1557,,,2909,,0,"77,852",0.68,Labour
+Poole,E14000881,Poole,South West,29599,10483,7819,1702,,,,,848,"73,992",0.68,Conservative
+Rayleigh & Wickford,E14000888,Rayleigh & Wickford,East,"39,864","8,864","4,171","2,002",,,,,0,"78,959",0.70,Conservative
+Reading East,E14000889,Reading East,South East,21178,27102,5035,1549,,,852,,202,"77,465",0.72,Labour
+Reading West,E14000890,Reading West,South East,24393,20276,4460,1263,,,,,0,"74,623",0.68,Conservative
+Redditch,E14000892,Redditch,West Midlands,27907,11871,2905,1384,,,,,0,"65,391",0.67,Conservative
+Richmond (Yorks),E14000895,Richmond (Yorks),Yorkshire and The Humber,36693,9483,6989,2500,,,,,2038,"82,601",0.70,Conservative
+Romsey & Southampton North,E14000901,Romsey & Southampton North,South East,27862,5898,16990,,,,,640,0,"68,228",0.75,Conservative
+Rossendale & Darwen,E14000902,Rossendale & Darwen,North West,27570,18048,2011,1193,,,,,0,"72,771",0.67,Conservative
+Rother Valley,E14000903,Rother Valley,Yorkshire and The Humber,21970,15652,2553,1219,,,6264,,1040,"74,802",0.65,Conservative
+Rotherham,E14000904,Rotherham,Yorkshire and The Humber,11615,14736,2090,,,,6125,,1085,"61,688",0.58,Labour
+"Ruislip, Northwood & Pinner",E14000906,"Ruislip, Northwood & Pinner",London,29391,12997,7986,1646,,,,,884,"73,389",0.72,Conservative
+Rutland & Melton,E14000909,Rutland & Melton,East Midlands,36507,9583,7970,2875,,,,917,458,"82,711",0.71,Conservative
+Salisbury,E14000912,Salisbury,South West,30280,9675,10544,2486,,,,,745,"74,560",0.72,Conservative
+Scarborough & Whitby,E14000913,Scarborough & Whitby,Yorkshire and The Humber,27593,17323,3038,,,,,,1770,"74,393",0.67,Conservative
+Scunthorpe,E14000914,Scunthorpe,Yorkshire and The Humber,20306,13855,875,670,,,2044,,0,"61,955",0.61,Conservative
+Selby & Ainsty,E14000917,Selby & Ainsty,Yorkshire and The Humber,33995,13858,4842,1823,,,,,1900,"78,715",0.72,Conservative
+Sherwood,E14000924,Sherwood,East Midlands,32049,15863,2883,1214,,,,,700,"77,948",0.68,Conservative
+Shipley,E14000925,Shipley,Yorkshire and The Humber,27437,21195,3188,1301,,,,,883,"74,029",0.73,Conservative
+Sleaford & North Hykeham,E14000929,Sleaford & North Hykeham,East Midlands,44683,12118,5355,1742,,,,,2656,"94,761",0.70,Conservative
+Slough,E14000930,Slough,South East,15781,29421,3357,1047,,,1432,,0,"87,632",0.58,Labour
+Leicestershire South,E14000940,Leicestershire South,East Midlands,36791,12787,5452,2439,,,,,0,"80,520",0.71,Conservative
+Northamptonshire South,E14000942,Northamptonshire South,East Midlands,41755,13994,7891,2634,,,,,634,"90,840",0.74,Conservative
+Staffordshire South,E14000945,Staffordshire South,West Midlands,36520,8270,3280,1935,,,,,0,"73,680",0.68,Conservative
+Suffolk South,E14000946,Suffolk South,East,33276,10373,6702,3144,,,,,0,"76,201",0.70,Conservative
+Swindon South,E14000947,Swindon South,South West,26536,19911,4299,,,,,,0,"73,118",0.69,Conservative
+Bedfordshire South West,E14000949,Bedfordshire South West,East,32212,13629,5435,2031,,,,,0,"79,926",0.67,Conservative
+Devon South West,E14000950,Devon South West,South West,33286,11856,6207,2018,,,,,0,"72,535",0.74,Conservative
+Norfolk South West,E14000952,Norfolk South West,East,35507,9312,4166,1645,,,,,836,"78,455",0.66,Conservative
+Surrey South West,E14000953,Surrey South West,South East,32191,4775,23374,,,,,,0,"79,129",0.76,Conservative
+Wiltshire South West,E14000954,Wiltshire South West,South West,33038,11408,8015,2434,,,,,0,"77,970",0.70,Conservative
+Spelthorne,E14000959,Spelthorne,South East,29141,10748,7499,2122,,,,,0,"70,929",0.70,Conservative
+St Albans,E14000960,St Albans,East,22574,5000,28867,1004,,,,,154,"73,721",0.78,Liberal Democrat
+Stone,E14000975,Stone,West Midlands,31687,11742,4412,2002,,,,,0,"69,378",0.72,Conservative
+Stourbridge,E14000976,Stourbridge,West Midlands,27534,13963,2523,1048,,,,,621,"69,891",0.65,Conservative
+Streatham,E14000978,Streatham,London,9060,30976,13286,2567,,,624,,0,"84,788",0.67,Labour
+Stretford & Urmston,E14000979,Stretford & Urmston,North West,13778,30195,2969,1357,,,1768,,0,"72,356",0.69,Labour
+Sutton & Cheam,E14000984,Sutton & Cheam,London,25235,7200,16884,1168,,,,,0,"71,760",0.70,Conservative
+Tatton,E14000987,Tatton,North West,28277,10890,7712,2088,,,,,0,"69,018",0.71,Conservative
+Taunton Deane,E14000988,Taunton Deane,South West,34164,4715,22464,,,,,,2390,"88,675",0.72,Conservative
+Thornbury & Yate,E14000994,Thornbury & Yate,South West,30202,4208,17833,,,,,,0,"69,492",0.75,Conservative
+Tottenham,E14001002,Tottenham,London,5446,35621,3168,1873,,,527,,221,"75,740",0.62,Labour
+Vauxhall,E14001008,Vauxhall,London,9422,31615,12003,2516,,,641,,136,"88,647",0.64,Labour
+Wakefield,E14001009,Wakefield,Yorkshire and The Humber,21283,17925,1772,,,,2725,,1322,"70,192",0.64,Conservative
+Warrington North,E14001017,Warrington North,North West,19102,20611,3071,1257,,,2626,,0,"72,235",0.65,Labour
+Warrington South,E14001018,Warrington South,North West,28187,26177,5732,,,,1635,,168,"86,015",0.72,Conservative
+Warwick & Leamington,E14001019,Warwick & Leamington,West Midlands,22929,23718,4995,1536,,,807,,220,"76,373",0.71,Labour
+Waveney,E14001022,Waveney,East,31778,13776,2603,2727,,,,,245,"82,791",0.62,Conservative
+Wentworth & Dearne,E14001028,Wentworth & Dearne,Yorkshire and The Humber,14577,16742,1705,,,,7019,,1514,"74,536",0.56,Labour
+West Ham,E14001032,West Ham,London,9793,42181,4161,1780,,,1679,,606,"97,942",0.61,Labour
+Lancashire West,E14001033,Lancashire West,North West,19122,27458,2560,1248,,,2275,,0,"73,346",0.72,Labour
+Windsor,E14001042,Windsor,South East,31501,8147,11422,1796,,,,,884,"75,038",0.72,Conservative
+Witham,E14001045,Witham,East,32876,8794,4584,3090,,,,,0,"70,402",0.70,Conservative
+Witney,E14001046,Witney,South East,33856,8770,18679,,,,,,0,"83,845",0.73,Conservative
+Woking,E14001047,Woking,South East,26396,8827,16629,1485,,,,600,0,"75,455",0.71,Conservative
+Wyre & Preston North,E14001057,Wyre & Preston North,North West,31589,14808,4463,1729,,,,,335,"75,168",0.70,Conservative
+Wythenshawe & Sale East,E14001059,Wythenshawe & Sale East,North West,13459,23855,3111,1559,,,2717,,58,"76,313",0.59,Labour
+Fermanagh & South Tyrone,N06000007,Fermanagh & South Tyrone,Northern Ireland,,,,,,,,,50762,"72,848",0.70,OTHER
+Newry & Armagh,N06000011,Newry & Armagh,Northern Ireland,,,,,,,,,50779,"81,226",0.63,OTHER
+Upper Bann,N06000017,Upper Bann,Northern Ireland,,,,,,,,,50045,"82,887",0.60,OTHER
+Tyrone West,N06000018,Tyrone West,Northern Ireland,,,,521,,,,,40665,"66,259",0.62,OTHER
+"Berwickshire, Roxburgh & Selkirk",S14000008,"Berwickshire, Roxburgh & Selkirk",Scotland,25747,2513,4287,,20599,,,,0,"74,518",0.71,Conservative
+"Caithness, Sutherland & Easter Ross",S14000009,"Caithness, Sutherland & Easter Ross",Scotland,5176,1936,11705,,11501,,1139,,0,"46,930",0.67,Liberal Democrat
+Ayrshire Central,S14000010,Ayrshire Central,Scotland,16182,6583,2283,,21486,,,,0,"69,742",0.67,SNP
+"Coatbridge, Chryston & Bellshill",S14000011,"Coatbridge, Chryston & Bellshill",Scotland,6113,17056,1564,808,22680,,,,0,"72,943",0.66,SNP
+"Cumbernauld, Kilsyth & Kirkintilloch East",S14000012,"Cumbernauld, Kilsyth & Kirkintilloch East",Scotland,7380,11182,2966,,24158,,,,0,"66,079",0.69,SNP
+"Inverness, Nairn, Badenoch & Strathspey",S14000039,"Inverness, Nairn, Badenoch & Strathspey",Scotland,15807,4123,5846,1709,26247,,1078,,0,"78,057",0.70,SNP
+Motherwell & Wishaw,S14000047,Motherwell & Wishaw,Scotland,7150,14354,1675,,20622,,,619,0,"68,856",0.65,SNP
+Fife North East,S14000049,Fife North East,Scotland,5961,1707,19763,,18447,,,,0,"60,905",0.75,Liberal Democrat
+Monmouth,W07000054,Monmouth,Wales,26160,16178,4909,1353,,1182,,,435,"67,094",0.75,Conservative
+Ceredigion,W07000064,Ceredigion,Wales,8879,6317,6975,663,,15208,2063,,0,"56,250",0.71,Plaid Cymru
+Merthyr Tydfil & Rhymney,W07000071,Merthyr Tydfil & Rhymney,Wales,6307,16913,1116,,,2446,3604,,1860,"56,322",0.57,Labour
+Cardiff West,W07000079,Cardiff West,Wales,12922,23908,2731,1133,,3864,1619,,0,"68,508",0.67,Labour
+Cardiff South & Penarth,W07000080,Cardiff South & Penarth,Wales,14645,27382,2985,1182,,2386,1999,,0,"78,837",0.64,Labour
+Beverley & Holderness,E14000556,Beverley & Holderness,Yorkshire and The Humber,33250,12802,4671,1378,,,,,1441,"79,683",0.67,Conservative
+Bognor Regis & Littlehampton,E14000576,Bognor Regis & Littlehampton,South East,32521,10018,5645,1826,,,,846,367,"77,488",0.66,Conservative
+"Chester, City of",E14000640,"Chester, City of",North West,20918,27082,3734,1438,,,1388,,0,"76,057",0.72,Labour
+Derbyshire Dales,E14000664,Derbyshire Dales,East Midlands,29356,11975,6627,2058,,,,,0,"65,060",0.77,Conservative
+Yorkshire East,E14000683,Yorkshire East,Yorkshire and The Humber,33988,11201,4219,1675,,,,,1686,"80,871",0.65,Conservative
+Elmet & Rothwell,E14000689,Elmet & Rothwell,Yorkshire and The Humber,33726,16373,5155,1775,,,,,1196,"80,957",0.72,Conservative
+Kensington,E14000768,Kensington,London,16768,16618,9312,535,,,384,,145,"64,609",0.68,Conservative
+Mansfield,E14000810,Mansfield,East Midlands,31484,15178,1626,,,,,,985,"77,131",0.64,Conservative
+Dorset North,E14000839,Dorset North,South West,35705,6737,11404,2261,,,,,0,"75,956",0.74,Conservative
+Dorset South,E14000936,Dorset South,South West,30024,12871,5432,2246,,,,,485,"72,924",0.70,Conservative
+Uxbridge & Ruislip South,E14001007,Uxbridge & Ruislip South,London,25351,18141,3026,1090,,,,283,296,"70,369",0.68,Conservative
+Weaver Vale,E14001024,Weaver Vale,North West,22210,22772,3300,1051,,,1380,,0,"70,551",0.72,Labour
+Dorset West,E14001031,Dorset West,South West,33589,5729,19483,2124,,,,,0,"80,963",0.75,Conservative
+Preseli Pembrokeshire,W07000065,Preseli Pembrokeshire,Wales,21381,16319,1943,,,2776,,,0,"59,586",0.71,Conservative
+Carmarthen West & Pembrokeshire South,W07000066,Carmarthen West & Pembrokeshire South,Wales,22183,14438,1860,,,3633,,,0,"58,629",0.72,Conservative
+Arundel & South Downs,E14000534,Arundel & South Downs,South East,35566,9722,13045,2519,,,,,556,"81,726",0.75,Conservative
+Ashfield,E14000535,Ashfield,East Midlands,19231,11971,1105,674,,,2501,,13498,"78,204",0.63,Conservative
+Ashton Under Lyne,E14000537,Ashton Under Lyne,North West,14281,18544,1395,1208,,,3151,,0,"68,497",0.56,Labour
+Basingstoke,E14000545,Basingstoke,South East,29593,15395,6841,2138,,,,,746,"82,926",0.66,Conservative
+Bermondsey & Old Southwark,E14000553,Bermondsey & Old Southwark,London,9678,31723,15597,,,,1617,,0,"93,313",0.63,Labour
+Bethnal Green & Bow,E14000555,Bethnal Green & Bow,London,6528,44052,5892,2570,,,1081,,439,"88,169",0.69,Labour
+Blyth Valley,E14000575,Blyth Valley,North East,"17,440","16,728","2,151","1,146",,,"3,394",,0,"64,429",0.63,Conservative
+Bolsover,E14000577,Bolsover,East Midlands,21791,16492,1759,758,,,4151,,987,"75,157",0.61,Conservative
+Bradford East,E14000587,Bradford East,Yorkshire and The Humber,9681,27825,3316,662,,,2700,,0,"73,206",0.60,Labour
+Bradford South,E14000588,Bradford South,Yorkshire and The Humber,16044,18390,1505,983,,,2819,,0,"69,046",0.58,Labour
+Bradford West,E14000589,Bradford West,Yorkshire and The Humber,6717,33736,1349,813,,,1556,,90,"70,694",0.63,Labour
+Bridgwater & Somerset West,E14000595,Bridgwater & Somerset West,South West,35827,11388,7805,1877,,,,,755,"85,327",0.68,Conservative
+Broadland,E14000603,Broadland,East,33934,12073,9195,1412,,,,,363,"78,151",0.73,Conservative
+Broxtowe,E14000607,Broxtowe,East Midlands,26602,21271,,1806,,,,,5593,"73,052",0.76,Conservative
+Buckingham,E14000608,Buckingham,South East,37035,7638,16624,,,,1286,,875,"83,146",0.76,Conservative
+Calder Valley,E14000614,Calder Valley,Yorkshire and The Humber,29981,24207,2884,,,,,,721,"79,287",0.73,Conservative
+Camberwell & Peckham,E14000615,Camberwell & Peckham,London,6478,40258,5087,3501,,,1041,,127,"89,042",0.63,Labour
+Camborne & Redruth,E14000616,Camborne & Redruth,South West,26764,18064,3504,1359,,,,,676,"70,250",0.72,Conservative
+Cheadle,E14000627,Cheadle,North West,25694,6851,23358,,,,,,0,"74,639",0.75,Conservative
+Colne Valley,E14000645,Colne Valley,Yorkshire and The Humber,29482,24379,3815,1068,,,1286,230,650,"84,174",0.72,Conservative
+Corby,E14000648,Corby,East Midlands,33410,23142,3932,,,,,,0,"86,151",0.70,Conservative
+Denton & Reddish,E14000661,Denton & Reddish,North West,13142,19317,1642,1124,,,3039,,324,"66,234",0.58,Labour
+Derby North,E14000662,Derby North,East Midlands,21259,18719,3450,1046,,,1908,,635,"73,212",0.64,Conservative
+Derby South,E14000663,Derby South,East Midlands,15671,21690,2621,,,,2480,,0,"73,079",0.58,Labour
+Dewsbury,E14000666,Dewsbury,Yorkshire and The Humber,26179,24618,2406,1060,,,1874,,252,"81,252",0.69,Conservative
+Dudley North,E14000671,Dudley North,West Midlands,23134,11601,1210,739,,,,,0,"61,936",0.59,Conservative
+Worthing East & Shoreham,E14000682,Worthing East & Shoreham,South East,27104,19663,4127,2006,,,,,255,"75,195",0.71,Conservative
+Eddisbury,E14000686,Eddisbury,North West,30095,11652,9582,1191,,,,451,0,"73,700",0.72,Conservative
+Enfield Southgate,E14000692,Enfield Southgate,London,18473,22923,4344,1042,,,494,,0,"65,055",0.73,Labour
+Faversham & Kent Mid,E14000700,Faversham & Kent Mid,South East,31864,9888,6170,2103,,,,,369,"73,404",0.69,Conservative
+Filton & Bradley Stoke,E14000702,Filton & Bradley Stoke,South West,26293,20647,4992,1563,,,,,257,"74,016",0.73,Conservative
+Gravesham,E14000715,Gravesham,South East,29580,13999,2584,1397,,,,,0,"73,234",0.65,Conservative
+Halesowen & Rowley Regis,E14000722,Halesowen & Rowley Regis,West Midlands,25607,13533,1738,934,,,,,533,"68,300",0.62,Conservative
+Halifax,E14000723,Halifax,Yorkshire and The Humber,18927,21496,2276,946,,,2813,,0,"71,904",0.65,Labour
+Hampstead & Kilburn,E14000727,Hampstead & Kilburn,London,13892,28080,13121,1608,,,684,,0,"82,432",0.70,Labour
+Hazel Grove,E14000738,Hazel Grove,North West,21592,5508,17169,,,,,,0,"65,457",0.68,Conservative
+Hemsworth,E14000740,Hemsworth,Yorkshire and The Humber,15280,16460,1734,916,,,5930,,3587,"73,726",0.60,Labour
+Holborn & St Pancras,E14000750,Holborn & St Pancras,London,8878,36641,7314,2746,,,1032,138,37,"87,236",0.65,Labour
+Keighley,E14000766,Keighley,Yorkshire and The Humber,25298,23080,2573,,,,850,,799,"72,778",0.72,Conservative
+Kingswood,E14000774,Kingswood,South West,27712,16492,3421,1200,,,,,489,"68,972",0.72,Conservative
+Leeds North East,E14000779,Leeds North East,Yorkshire and The Humber,11935,29024,5665,1931,,,1769,,176,"70,580",0.72,Labour
+Ludlow,E14000799,Ludlow,West Midlands,32185,7591,8537,1912,,,,,0,"69,442",0.72,Conservative
+Macclesfield,E14000802,Macclesfield,North West,28292,17581,5684,2310,,,,,0,"76,216",0.71,Conservative
+Maidstone & The Weald,E14000804,Maidstone & The Weald,South East,31220,9448,8482,2172,,,,,358,"76,110",0.68,Conservative
+Meon Valley,E14000811,Meon Valley,South East,35271,5644,11716,2198,,,,,0,"75,737",0.72,Conservative
+Derbyshire Mid,E14000814,Derbyshire Mid,East Midlands,29027,13642,4756,1931,,,,,0,"67,437",0.73,Conservative
+Norfolk Mid,E14000816,Norfolk Mid,East,35051,12457,7739,,,,,,939,"81,975",0.69,Conservative
+Milton Keynes North,E14000821,Milton Keynes North,South East,30938,24683,4991,1931,,,,,0,"91,535",0.68,Conservative
+Morecambe & Lunesdale,E14000825,Morecambe & Lunesdale,North West,23925,17571,2328,938,,,,,548,"67,397",0.67,Conservative
+"Normanton, Pontefract & Castleford",E14000836,"Normanton, Pontefract & Castleford",Yorkshire and The Humber,17021,18297,3147,,,,8032,,1762,"84,527",0.57,Labour
+Derbyshire North East,E14000843,Derbyshire North East,East Midlands,28897,16021,3021,1278,,,,,0,"72,360",0.68,Conservative
+Shropshire North,E14000849,Shropshire North,West Midlands,35444,12495,5643,1790,,,,,1141,"83,257",0.68,Conservative
+Thanet North,E14000852,Thanet North,South East,30066,12877,3439,1796,,,,,0,"72,811",0.66,Conservative
+Northampton North,E14000861,Northampton North,East Midlands,21031,15524,2031,953,,,,,0,"59,265",0.67,Conservative
+Northampton South,E14000862,Northampton South,East Midlands,20914,16217,2482,1222,,,,,0,"62,172",0.66,Conservative
+Oxford West & Abingdon,E14000874,Oxford West & Abingdon,South East,22397,4258,31340,,,,829,,0,"76,953",0.76,Liberal Democrat
+Poplar & Limehouse,E14000882,Poplar & Limehouse,London,9756,38660,8832,2159,,,1493,,376,"91,760",0.67,Labour
+Pudsey,E14000886,Pudsey,Yorkshire and The Humber,26453,22936,3088,894,,,,,844,"73,212",0.74,Conservative
+Somerton & Frome,E14000932,Somerton & Frome,South West,36230,8354,17017,3295,,,,,0,"85,866",0.76,Conservative
+Cambridgeshire South East,E14000937,Cambridgeshire South East,East,32187,10492,20697,,,,,,1009,"86,769",0.74,Conservative
+Thanet South,E14000948,Thanet South,South East,27084,16497,2727,1949,,,,,0,"73,302",0.66,Conservative
+Hertfordshire South West,E14000951,Hertfordshire South West,East,30327,7228,6251,1466,,,,,15919,"80,449",0.76,Conservative
+Southampton Itchen,E14000955,Southampton Itchen,South East,23952,19454,2503,1040,,,,472,0,"72,293",0.66,Conservative
+Stalybridge & Hyde,E14000967,Stalybridge & Hyde,North West,16079,19025,1827,1411,,,3591,,435,"73,873",0.57,Labour
+Stockport,E14000969,Stockport,North West,11656,21695,5043,1403,,,1918,,0,"65,457",0.64,Labour
+Stoke-on-Trent Central,E14000972,Stoke-on-Trent Central,West Midlands,14557,13887,1116,819,,,1691,,0,"55,424",0.58,Conservative
+Stoke-on-Trent North,E14000973,Stoke-on-Trent North,West Midlands,20974,14688,1268,508,,,2374,,322,"84,357",0.48,Conservative
+Stoke-on-Trent South,E14000974,Stoke-on-Trent South,West Midlands,24632,13361,1611,,,,,,0,"64,499",0.61,Conservative
+Tewkesbury,E14000990,Tewkesbury,South West,35728,9310,13318,2784,,,,,0,"83,958",0.73,Conservative
+Thirsk & Malton,E14000993,Thirsk & Malton,Yorkshire and The Humber,35634,10480,6774,2263,,,,,1437,"80,979",0.70,Conservative
+Tiverton & Honiton,E14000996,Tiverton & Honiton,South West,35893,11654,8807,2291,,,,968,0,"82,953",0.72,Conservative
+Devon West & Torridge,E14001000,Devon West & Torridge,South West,35904,10290,10912,2077,,,,,547,"79,831",0.75,Conservative
+Wantage,E14001015,Wantage,South East,34085,10181,21432,,,,,,1475,"90,875",0.74,Conservative
+Winchester,E14001041,Winchester,South East,28430,2723,27445,,,,,,292,"75,582",0.78,Conservative
+Worthing West,E14001055,Worthing West,South East,30475,15652,6024,2008,,,,,489,"78,587",0.70,Conservative
+York Central,E14001061,York Central,Yorkshire and The Humber,13767,27312,4149,2107,,,1479,,691,"74,801",0.66,Labour
+York Outer,E14001062,York Outer,Yorkshire and The Humber,27324,17339,9992,,,,,,692,"74,673",0.74,Conservative
+Argyll & Bute,S14000005,Argyll & Bute,Scotland,16930,3248,6832,,21040,,,,0,"66,525",0.72,SNP
+Banff & Buchan,S14000007,Banff & Buchan,Scotland,21182,1734,2280,,17064,,,,0,"66,655",0.63,Conservative
+Dumfries & Galloway,S14000013,Dumfries & Galloway,Scotland,22678,4745,3133,,20873,,,,0,"74,580",0.69,Conservative
+"Dumfriesshire, Clydesdale & Tweeddale",S14000014,"Dumfriesshire, Clydesdale & Tweeddale",Scotland,22611,4172,3540,,18830,,,,0,"68,330",0.72,Conservative
+Edinburgh East,S14000022,Edinburgh East,Scotland,6549,12748,3289,2064,23165,,,,0,"69,424",0.69,SNP
+Edinburgh North & Leith,S14000023,Edinburgh North & Leith,Scotland,11000,13117,6635,1971,25925,,558,,138,"81,336",0.73,SNP
+Edinburgh South,S14000024,Edinburgh South,Scotland,8161,23745,3819,1357,12650,,,,0,"66,188",0.75,Labour
+Edinburgh South West,S14000025,Edinburgh South West,Scotland,12848,7478,4971,1265,24830,,625,,114,"73,501",0.71,SNP
+Edinburgh West,S14000026,Edinburgh West,Scotland,9283,4460,21766,1027,17997,,,,0,"72,507",0.75,Liberal Democrat
+Gordon,S14000037,Gordon,Scotland,23066,3052,5913,,23885,,,,0,"79,629",0.70,SNP
+"Ross, Skye & Lochaber",S14000055,"Ross, Skye & Lochaber",Scotland,6900,2448,9820,,19263,,710,,728,"54,229",0.74,SNP
+Aberdeenshire West & Kincardine,S14000058,Aberdeenshire West & Kincardine,Scotland,22752,2431,6253,,21909,,,,0,"72,640",0.73,Conservative
+Barrow & Furness,E14000543,Barrow & Furness,North West,23876,18087,2025,703,,,1355,,0,"70,158",0.66,Conservative
+Chipping Barnet,E14000636,Chipping Barnet,London,25745,24533,5932,1288,,,,,71,"79,960",0.72,Conservative
+Finchley & Golders Green,E14000703,Finchley & Golders Green,London,24162,13347,17600,,,,,,0,"77,573",0.71,Conservative
+Hendon,E14000741,Hendon,London,26878,22648,4628,921,,,,,0,"82,661",0.67,Conservative
+Chatham & Aylesford,E14000626,Chatham & Aylesford,South East,28856,10316,2866,1090,,,,,212,"73,305",0.59,Conservative
+Devizes,E14000665,Devizes,South West,32150,7838,8157,2809,,,,,0,"73,379",0.69,Conservative
+Devon East,E14000678,Devon East,South West,32577,2870,1771,711,,,,,26144,"86,841",0.74,Conservative
+Gillingham & Rainham,E14000711,Gillingham & Rainham,South East,28173,13054,2503,1043,,,,837,348,"73,549",0.62,Conservative
+Sussex Mid,E14000817,Sussex Mid,South East,33455,11218,15258,2234,,,,,597,"85,140",0.74,Conservative
+Richmond Park,E14000896,Richmond Park,London,26793,3407,34559,,,,,,308,"82,696",0.79,Liberal Democrat
+Rochester & Strood,E14000898,Rochester & Strood,South East,31151,14079,3717,1312,,,,1080,587,"82,056",0.63,Conservative
+Skipton & Ripon,E14000928,Skipton & Ripon,Yorkshire and The Humber,34919,11225,8701,2748,,,,,1131,"78,673",0.75,Conservative
+Southampton Test,E14000956,Southampton Test,South East,16043,22256,3449,1433,,,1591,,222,"70,113",0.64,Labour
+Twickenham,E14001005,Twickenham,London,22045,5476,36166,,,,816,,0,"84,901",0.76,Liberal Democrat
+Wansbeck,E14001014,Wansbeck,North East,"16,310","17,124","2,539","1,217",,,"3,141",,178,"63,339",0.64,Labour
+Wells,E14001026,Wells,South West,33336,4304,23345,,,,,,580,"84,124",0.73,Conservative
+Orkney & Shetland,S14000051,Orkney & Shetland,Scotland,2287,1550,10381,,7874,,900,,168,"34,211",0.68,Liberal Democrat
+Brighton Kemptown,E14000597,Brighton Kemptown,South East,16972,25033,2964,2237,,,1327,,0,"69,833",0.70,Labour
+Brighton Pavilion,E14000598,Brighton Pavilion,South East,10176,13211,,33151,,,770,177,513,"79,057",0.73,Green
+Hove,E14000755,Hove,South East,15832,32876,3731,2496,,,1111,,345,"74,313",0.76,Labour
+Truro & Falmouth,E14001003,Truro & Falmouth,South West,27237,22676,7150,1714,,,,,413,"76,719",0.77,Conservative
+St Ives,E14000964,St Ives,South West,25365,3553,21081,954,,,,,446,"68,795",0.75,Conservative
+St Austell & Newquay,E14000961,St Austell & Newquay,South West,31273,14747,5861,1609,,,,,2286,"79,930",0.70,Conservative
+Cornwall North,E14000837,Cornwall North,South West,30671,4516,15919,,,,,,572,"69,935",0.74,Conservative
+Cornwall South East,E14000938,Cornwall South East,South West,31807,10836,8650,1493,,,,,869,"71,825",0.75,Conservative
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,Seats declared:,650,
